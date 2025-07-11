@@ -78,7 +78,7 @@ Node ID
 Device ID
 
 2. Open the Dashboard
-Go to: https://dashboard.gaianet.ai
+Go to: https://www.gaianet.ai/setting/nodes
 
 Login using your Web3 wallet
 
